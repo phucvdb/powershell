@@ -1,7 +1,8 @@
-#In this segment, there are 2 options to provision a RemoteApp Collection:
-  1. Using AzRemoteApp.ps1 and bootstrap.ps1 
-  2. writing a runbook of Azure Automation, further we can use this tool to manage and patching your remoteapp collection.
-  More detail as below
+#Provisioning a RemoteApp Collection
+In this segment, there are 2 options:
+    1. Using AzRemoteApp.ps1 and bootstrap.ps1 
+    2. writing a runbook of Azure Automation, further we can use this tool to manage and patching your remoteapp collection.
+    More detail as below
 
 
 ## How can Azure Automation help manage Azure RemoteApp?
